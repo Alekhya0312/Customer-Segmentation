@@ -1,6 +1,6 @@
 # Customer-Segmentation
 
-Data Set : Sample Sales Data (https://www.kaggle.com/kyanyoga/sample-sales-data)
+Data Set : Sample Sales Data (https://www.kaggle.com/kyanyoga/sample-sales-data)<br>
 Kaggle Kernel of this notebook : https://www.kaggle.com/alekhyabotta/customer-segmentation
 <h1>What is in this Kernel?</h1>
 
